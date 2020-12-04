@@ -1,0 +1,14 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "description": "advent of code solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "janka.balkovicova@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
